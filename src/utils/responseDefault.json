@@ -1,0 +1,116 @@
+{
+    "collection": {
+        "id": 2,
+        "name": "something weird",
+        "desc": "3",
+        "symbol": "astro 789654123",
+        "second_id": "as7895asdasdasdasd2588sd123345567a89916a5882",
+        "img": null,
+        "banner_image": null,
+        "total_Supply": "3",
+        "isverified": false,
+        "published_date": "2022-08-04",
+        "doxxedMembers": "[{\"memberName\":\"d\",\"link\":\"d\",\"description\":\"d\"}]",
+        "projectDescription": "<p>d</p>",
+        "projectUtility": "<p>d</p>",
+        "tokenUtility": "<p>qq</p>",
+        "ecosystemMetaverse": "<p>dd</p>",
+        "twitter": "https://astrogallery.io/Marketplace/",
+        "discord": "https://astrogallery.io/Marketplace/",
+        "website": "https://astrogallery.io/Marketplace/",
+        "hashlist_filename": "[\"EycdKikVrCHAS7LwK6ZN9Yxz35EhcQ2MDryLcuAgK3E6\", \"4wy8rqu17kFPduLY1S51shPtEGSGQzwuRsJGwAwH76sM\"]",
+        "mint_drop_date": null,
+        "id_derivate": false,
+        "url_pathname": "https://astrogallery.io/Marketplace/",
+        "status": "listed",
+        "form_identifier": null,
+        "creator_id": null,
+        "category_id": 1
+    },
+    "nft_metadata": [
+        {
+            "mint": "EycdKikVrCHAS7LwK6ZN9Yxz35EhcQ2MDryLcuAgK3E6",
+            "metadata": {
+                "name": "Gorilla Chavorruco3",
+                "symbol": "GC",
+                "description": "A Gorila with oral distress3",
+                "seller_fee_basis_points": 1,
+                "image": "https://arweave.net/eHOUO3C0l-lp_guysguCqEvt0J6JglKbG4UKDMq3uXI?ext=png",
+                "attributes": [
+                    {
+                        "trait_type": "Layer-1",
+                        "value": "0"
+                    },
+                    {
+                        "trait_type": "Layer-2",
+                        "value": "0"
+                    },
+                    {
+                        "trait_type": "Layer-3",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "Layer-4",
+                        "value": "0"
+                    }
+                ],
+                "properties": {
+                    "files": [
+                        {
+                            "uri": "https://arweave.net/eHOUO3C0l-lp_guysguCqEvt0J6JglKbG4UKDMq3uXI?ext=png",
+                            "type": "image/png"
+                        }
+                    ],
+                    "creators": [
+                        {
+                            "address": "8KznCcGKZTt3vhqX8eBgjTTYASbZTTwxQewrwA8ree41",
+                            "share": 100
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "mint": "4wy8rqu17kFPduLY1S51shPtEGSGQzwuRsJGwAwH76sM",
+            "metadata": {
+                "name": "Gorilla Chavorruco",
+                "symbol": "GC",
+                "description": "A Gorila with oral distress",
+                "seller_fee_basis_points": 1,
+                "image": "https://arweave.net/mjlB5NLWM9Iu59NQ2XB30WvvGEWYGchwC47oLBSeiUA?ext=png",
+                "attributes": [
+                    {
+                        "trait_type": "Layer-1",
+                        "value": "0"
+                    },
+                    {
+                        "trait_type": "Layer-2",
+                        "value": "0"
+                    },
+                    {
+                        "trait_type": "Layer-3",
+                        "value": "1"
+                    },
+                    {
+                        "trait_type": "Layer-4",
+                        "value": "0"
+                    }
+                ],
+                "properties": {
+                    "files": [
+                        {
+                            "uri": "https://arweave.net/mjlB5NLWM9Iu59NQ2XB30WvvGEWYGchwC47oLBSeiUA?ext=png",
+                            "type": "image/png"
+                        }
+                    ],
+                    "creators": [
+                        {
+                            "address": "8KznCcGKZTt3vhqX8eBgjTTYASbZTTwxQewrwA8ree41",
+                            "share": 100
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
